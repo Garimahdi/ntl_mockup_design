@@ -109,6 +109,11 @@
     margin-left:115px;
 }
 
+.letter_port_spacing_noa{
+    padding-right:88px;
+    margin-left:99px;
+}
+
 .letter_no_spacing_instance{
     padding-right:93px;
     margin-left:30px;
@@ -156,6 +161,19 @@
     cursor:pointer;
     padding-right:30px;
     padding-left:30px;
+    padding-bottom:5px;
+    padding-bottom:5px;
+}
+
+.button_style_search_noa{
+    border-radius:5px;
+    background-color:slategray;
+    color:white;
+    font-family:"Nanum Gothic";
+    font-size:12pt;
+    cursor:pointer;
+    padding-right:15px;
+    padding-left:15px;
     padding-bottom:5px;
     padding-bottom:5px;
 }
